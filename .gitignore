@@ -161,7 +161,6 @@ buildNumber.properties
 
 # BlueJ files
 *.ctxt
-allure-results
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
